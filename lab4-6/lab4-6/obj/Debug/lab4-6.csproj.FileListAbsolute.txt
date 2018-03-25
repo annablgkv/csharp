@@ -1,0 +1,7 @@
+C:\Users\Anna\Desktop\C#\C#\lab4-6\lab4-6\bin\Debug\lab4-6.exe.config
+C:\Users\Anna\Desktop\C#\C#\lab4-6\lab4-6\bin\Debug\lab4-6.exe
+C:\Users\Anna\Desktop\C#\C#\lab4-6\lab4-6\bin\Debug\lab4-6.pdb
+C:\Users\Anna\Desktop\C#\C#\lab4-6\lab4-6\obj\Debug\lab4-6.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\C#\C#\lab4-6\lab4-6\obj\Debug\lab4-6.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\C#\C#\lab4-6\lab4-6\obj\Debug\lab4-6.exe
+C:\Users\Anna\Desktop\C#\C#\lab4-6\lab4-6\obj\Debug\lab4-6.pdb
