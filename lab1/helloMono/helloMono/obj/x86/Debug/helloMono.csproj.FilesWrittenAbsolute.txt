@@ -1,0 +1,16 @@
+/home/misha/Documents/helloMono/helloMono/helloMono/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/misha/Documents/helloMono/helloMono/helloMono/bin/Debug/helloMono.pdb
+/home/misha/Documents/helloMono/helloMono/helloMono/bin/Debug/helloMono.exe
+/home/misha/Documents/helloMono/helloMono/helloMono/obj/x86/Debug/helloMono.exe
+/home/misha/Documents/helloMono/helloMono/helloMono/obj/x86/Debug/helloMono.pdb
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/bin/Debug/helloMono.pdb
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/bin/Debug/helloMono.exe
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/obj/x86/Debug/helloMono.exe
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/obj/x86/Debug/helloMono.pdb
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/helloMono/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/helloMono/bin/Debug/helloMono.pdb
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/helloMono/bin/Debug/helloMono.exe
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/helloMono/obj/x86/Debug/helloMono.exe
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/helloMono/obj/x86/Debug/helloMono.pdb
+/home/misha/Dropbox/code/Mono/1 - helloMono/helloMono/helloMono/bin/Debug/ComplexClass.dll

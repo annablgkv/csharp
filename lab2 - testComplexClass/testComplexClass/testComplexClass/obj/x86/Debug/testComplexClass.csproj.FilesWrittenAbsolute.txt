@@ -1,0 +1,6 @@
+/home/misha/Dropbox/code/Mono/2 - testComplexClass/testComplexClass/testComplexClass/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/misha/Dropbox/code/Mono/2 - testComplexClass/testComplexClass/testComplexClass/bin/Debug/ComplexClass.dll
+/home/misha/Dropbox/code/Mono/2 - testComplexClass/testComplexClass/testComplexClass/bin/Debug/testComplexClass.pdb
+/home/misha/Dropbox/code/Mono/2 - testComplexClass/testComplexClass/testComplexClass/bin/Debug/testComplexClass.exe
+/home/misha/Dropbox/code/Mono/2 - testComplexClass/testComplexClass/testComplexClass/obj/x86/Debug/testComplexClass.exe
+/home/misha/Dropbox/code/Mono/2 - testComplexClass/testComplexClass/testComplexClass/obj/x86/Debug/testComplexClass.pdb

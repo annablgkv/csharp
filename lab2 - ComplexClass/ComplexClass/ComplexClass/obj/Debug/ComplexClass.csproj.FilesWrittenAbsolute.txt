@@ -1,0 +1,5 @@
+/home/misha/Dropbox/code/Mono/2 - ComplexClass/ComplexClass/ComplexClass/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/misha/Dropbox/code/Mono/2 - ComplexClass/ComplexClass/ComplexClass/bin/Debug/ComplexClass.pdb
+/home/misha/Dropbox/code/Mono/2 - ComplexClass/ComplexClass/ComplexClass/bin/Debug/ComplexClass.dll
+/home/misha/Dropbox/code/Mono/2 - ComplexClass/ComplexClass/ComplexClass/obj/Debug/ComplexClass.dll
+/home/misha/Dropbox/code/Mono/2 - ComplexClass/ComplexClass/ComplexClass/obj/Debug/ComplexClass.pdb
