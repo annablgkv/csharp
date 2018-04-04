@@ -1,0 +1,7 @@
+C:\Users\ann\Desktop\csharp\lab2 - testComplexClass\testComplexClass\bin\Debug\testComplexClass.exe
+C:\Users\ann\Desktop\csharp\lab2 - testComplexClass\testComplexClass\bin\Debug\testComplexClass.pdb
+C:\Users\ann\Desktop\csharp\lab2 - testComplexClass\testComplexClass\obj\x86\Debug\testComplexClass.csprojResolveAssemblyReference.cache
+C:\Users\ann\Desktop\csharp\lab2 - testComplexClass\testComplexClass\obj\x86\Debug\testComplexClass.csproj.CoreCompileInputs.cache
+C:\Users\ann\Desktop\csharp\lab2 - testComplexClass\testComplexClass\obj\x86\Debug\testComplexClass.csproj.CopyComplete
+C:\Users\ann\Desktop\csharp\lab2 - testComplexClass\testComplexClass\obj\x86\Debug\testComplexClass.exe
+C:\Users\ann\Desktop\csharp\lab2 - testComplexClass\testComplexClass\obj\x86\Debug\testComplexClass.pdb

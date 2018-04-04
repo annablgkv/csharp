@@ -1,0 +1,6 @@
+C:\Users\ann\Desktop\csharp\lab1\helloMono\bin\Debug\helloMono.exe
+C:\Users\ann\Desktop\csharp\lab1\helloMono\bin\Debug\helloMono.pdb
+C:\Users\ann\Desktop\csharp\lab1\helloMono\obj\x86\Debug\helloMono.csprojResolveAssemblyReference.cache
+C:\Users\ann\Desktop\csharp\lab1\helloMono\obj\x86\Debug\helloMono.csproj.CoreCompileInputs.cache
+C:\Users\ann\Desktop\csharp\lab1\helloMono\obj\x86\Debug\helloMono.exe
+C:\Users\ann\Desktop\csharp\lab1\helloMono\obj\x86\Debug\helloMono.pdb

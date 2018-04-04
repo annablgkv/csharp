@@ -1,0 +1,7 @@
+C:\Users\ann\Desktop\csharp\lab2 - ComplexClass\ComplexClass\bin\Debug\ComplexClass.dll
+C:\Users\ann\Desktop\csharp\lab2 - ComplexClass\ComplexClass\bin\Debug\ComplexClass.pdb
+C:\Users\ann\Desktop\csharp\lab2 - ComplexClass\ComplexClass\obj\Debug\ComplexClass.csprojResolveAssemblyReference.cache
+C:\Users\ann\Desktop\csharp\lab2 - ComplexClass\ComplexClass\obj\Debug\ComplexClass.csproj.CoreCompileInputs.cache
+C:\Users\ann\Desktop\csharp\lab2 - ComplexClass\ComplexClass\obj\Debug\ComplexClass.dll
+C:\Users\ann\Desktop\csharp\lab2 - ComplexClass\ComplexClass\obj\Debug\ComplexClass.pdb
+C:\Users\ann\Desktop\csharp\lab2 - ComplexClass\ComplexClass\obj\Debug\ComplexClass.csproj.CopyComplete
