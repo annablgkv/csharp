@@ -105,7 +105,69 @@ namespace lab7_2
         }
         ////////////////////////////////////////////////////////////////////////// > задание #7-3 (конец)
         //////////////////////////////////////////////////////////////////////////
-
+        ////////////////////////////////////////////////////////////////////////// > задание #7-4 (старт)
+        private Rational(int a, int b, string t)
+        {
+            m = a; n = b;
+        }
+        //////////////////////////////////////////////////////////////////////////
+        //Константы класса 0 и 1 - Zero и One
+        public static readonly Rational Zero, One;
+        //////////////////////////////////////////////////////////////////////////
+        static Rational()
+        {
+            Console.WriteLine("static constructor Rational");
+            Zero = new Rational(0, 1, "private");
+            One = new Rational(1, 1, "private");
+        } // Статический конструктор
+        //////////////////////////////////////////////////////////////////////////
+        public static bool operator ==(Rational r1, Rational r2)
+        {
+            return ((r1.m == r2.m) && (r1.n == r2.n));
+        }
+        //////////////////////////////////////////////////////////////////////////
+        public static bool operator !=(Rational r1, Rational r2)
+        {
+            return ((r1.m != r2.m) || (r1.n != r2.n));
+        }
+        //////////////////////////////////////////////////////////////////////////
+        public static bool operator <(Rational r1, Rational r2)
+        {
+            return (r1.m * r2.n < r2.m * r1.n);
+        }
+        //////////////////////////////////////////////////////////////////////////
+        public static bool operator >(Rational r1, Rational r2)
+        {
+            return (r1.m * r2.n > r2.m * r1.n);
+        }
+        //////////////////////////////////////////////////////////////////////////
+        public static bool operator <(Rational r1, double r2)
+        {
+            return ((double)r1.m / (double)r1.n < r2);
+        }
+        //////////////////////////////////////////////////////////////////////////
+        public static bool operator >(Rational r1, double r2)
+        {
+            return ((double)r1.m / (double)r1.n > r2);
+        }
+        ////////////////////////////////////////////////////////////////////////// > задание #7-4 (конец)
+        public void TestRational()
+        {
+            Rational r1 = new Rational(2, 8);
+            Rational r2 = new Rational(2, 5);
+            Rational r3 = new Rational(4, 10);
+            Rational r4 = new Rational(3, 7);
+            Rational r5 = Rational.Zero;
+            Rational r6 = Rational.Zero;
+            if ((r1 != Rational.Zero) && (r2 == r3)) r5 = (r3 + Rational.One) * r4;
+            r6 = Rational.One + Rational.One;
+            r1.PrintRational("r1: (2,8)");
+            r2.PrintRational("r2: (2,5)");
+            r3.PrintRational("r3: (4,10)");
+            r4.PrintRational("r4: (3,7)");
+            r5.PrintRational("r5: ((r3 +1)*r4)");
+            r6.PrintRational("r6: (1+1)");
+        }
 
     }
 
@@ -140,6 +202,7 @@ namespace lab7_2
             //////////////////////////////////////////////////////////////////////////
             Console.WriteLine("////////////////////////////////////////////////////");
             //////////////////////////////////////////////////////////////////////////
+            r1.TestRational();
 
 
         }

@@ -6,4 +6,6 @@
 ![lab7-2](https://github.com/annablgkv/csharp/raw/master/lab7/screenshot-lab7-2.png)
 ### Задание №3:
 ![lab7-3](https://github.com/annablgkv/csharp/raw/master/lab7/screenshot-lab7-3.png)
+### Задание №4:
+![lab7-4](https://github.com/annablgkv/csharp/raw/master/lab7/screenshot-lab7-4.png)
 
