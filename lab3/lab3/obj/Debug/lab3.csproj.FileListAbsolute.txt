@@ -12,3 +12,10 @@ C:\Users\Anna\Desktop\C#\C#\lab3\lab3\obj\Debug\lab3.pdb
 C:\Users\Anna\Desktop\C#\C#\lab3\lab3\bin\Debug\lab3.exe.config
 C:\Users\Anna\Desktop\C#\C#\lab3\lab3\bin\Debug\lab3.exe
 C:\Users\Anna\Desktop\C#\C#\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\ann\Desktop\csharp\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\ann\Desktop\csharp\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\ann\Desktop\csharp\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\ann\Desktop\csharp\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\ann\Desktop\csharp\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\ann\Desktop\csharp\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\ann\Desktop\csharp\lab3\lab3\obj\Debug\lab3.pdb
