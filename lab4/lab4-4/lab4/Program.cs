@@ -37,7 +37,7 @@ namespace lab4
         {
             Student[] stud = new Student[3];
             Student.InitAr(stud);
-            stud[0].SetValue("misha");
+            stud[0].SetValue("anna");
             stud[0].ToString();
         }
     }

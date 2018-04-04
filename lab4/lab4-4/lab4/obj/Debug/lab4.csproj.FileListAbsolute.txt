@@ -1,0 +1,13 @@
+C:\Users\Anna\Desktop\C#\C#\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Anna\Desktop\C#\C#\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Anna\Desktop\C#\C#\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Anna\Desktop\C#\C#\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\C#\C#\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Anna\Desktop\C#\C#\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\ann\Desktop\csharp\lab4-4\lab4\bin\Debug\lab4.exe.config
+C:\Users\ann\Desktop\csharp\lab4-4\lab4\bin\Debug\lab4.exe
+C:\Users\ann\Desktop\csharp\lab4-4\lab4\bin\Debug\lab4.pdb
+C:\Users\ann\Desktop\csharp\lab4-4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\ann\Desktop\csharp\lab4-4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\ann\Desktop\csharp\lab4-4\lab4\obj\Debug\lab4.exe
+C:\Users\ann\Desktop\csharp\lab4-4\lab4\obj\Debug\lab4.pdb
